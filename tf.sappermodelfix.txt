@@ -1,0 +1,14 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"SetModel"
+			{
+				"windows"	"24"
+				"linux"		"25"
+			}
+		}
+	}
+}
