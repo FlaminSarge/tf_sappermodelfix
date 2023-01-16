@@ -6,8 +6,8 @@
 		{
 			"SetModel"
 			{
-				"windows"	"24"
-				"linux"		"25"
+				"windows"	"26"
+				"linux"		"27"
 			}
 		}
 	}
